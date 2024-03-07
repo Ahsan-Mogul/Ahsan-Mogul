@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development MERN
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on Google
-- 📫 How to reach me @ahsanmu555@gmail.com
+- 📫 How to reach me ahsanmu555@gmail.com
 - 😄 Pronouns: Mogul
 
 <!---
